@@ -1,3 +1,4 @@
 <?php
-print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "Hello, World!\n";
+print "<img src=\"./Haruhi.jpg\" alt=\"Haruhi\">";
 ?>
